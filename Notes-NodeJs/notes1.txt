@@ -2,7 +2,8 @@ API -> takes info from frontend to backend.
 frontend->API->BAckend->Database
 bakcend-->ORM(agent)-->Database
 ORM:mongoose,
-Casandra(TAbular database),MOngodb(NO sql)
+Cassandra(TAbular database),MOngodb(NO sql)
+
 framework                             Library
 ->react,angular                       ->Vue
 ->Everything provided                ->should brought externally
@@ -17,9 +18,9 @@ npm-collection of various fetaures/interfaces used to build websites
 nodeJs just a playground,npm store and expressJs is our player(it is a framework)
 
 command :npm init -y(for evrything default)
-package.json file:a brief descriptin of your project(common in all projects in json format
+package.json file:a brief descriptin of your project(common in all projects in json format)
 node js main file:app.js
-to run node js code in  terminal node *file name
+to run node js code in  terminal :node *file name
 node --watch *file name(no need to save and run code evry time just save the file)
 semantic verssoning????
 |->1.1.1

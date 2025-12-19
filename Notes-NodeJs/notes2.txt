@@ -75,9 +75,3 @@ The response is sent back through:
 Express → Node.js → Operating System → Browser
 
 The browser displays the received response.
-
-
-
-
-
-
