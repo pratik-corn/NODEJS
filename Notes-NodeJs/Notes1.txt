@@ -1,0 +1,33 @@
+API -> takes info from frontend to backend.
+frontend->API->BAckend->Database
+bakcend-->ORM(agent)-->Database
+ORM:mongoose,
+Casandra(TAbular database),MOngodb(NO sql)
+framework                             Library
+->react,angular                       ->Vue
+->Everything provided                ->should brought externally
+->secure                               ->flexible
+WWW->tim berners lee
+Netscape corp.-> Netscape navigator(browser)
+   |
+   Brendan Eich(mocha)
+Billgates-> Jscript(IE8 aka internet explorer)
+NodeJs -> Ryan dahl-> Runtime environmet for backend using Jscript
+npm-collection of various fetaures/interfaces used to build websites
+nodeJs just a playground,npm store and expressJs is our player(it is a framework)
+
+command :npm init -y(for evrything default)
+package.json file:a brief descriptin of your project(common in all projects in json format
+node js main file:app.js
+to run node js code in  terminal node *file name
+node --watch *file name(no need to save and run code evry time just save the file)
+semantic verssoning????
+|->1.1.1
+|->major.minor.patch
+
+Learn to Use :Git and Github
+
+
+
+
+

@@ -1,0 +1,12 @@
+create a mongodb database
+connect nodejs to mongodb databasec
+connection is made from ORM agent
+for mongodb the agent is called mongoose
+anything that is installed from terminal can be seen in package.json
+connection is made from a connection string that is available after creating a db
+mongodb+srv://nodejs:<db_password>@cluster0.sl0umnt.mongodb.net/?appName=Cluster0
+async await: keywords used to connect database to avoid delay
+model=table
+takes
+Table name : blog
+fields title,subtitle,descrption
