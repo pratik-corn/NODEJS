@@ -28,6 +28,6 @@ req-this shows the information of the client
 thunder cleint acts as a frontend to send data to the backend when we send data in json format backend  doesnot understands it so we nned to initialize --app.use(express.json())-- now it can recive and interpret it.
 same as ddata for user:
 DO IT FOR BLOGS
-make create and delete operation api for blog
+<!-- make create and delete operation api for blog
 for blogs
-title,subtitle,descrption(these are the columns)
+title,subtitle,descrption(these are the columns) -->
